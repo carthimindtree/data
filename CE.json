@@ -1,1 +1,12 @@
-
+{
+  manaufatures: {    
+[
+  {
+    "manufacturer": "CITROEN"
+  },
+  {
+    "manufacturer": "DACIA"
+  }
+]
+   }
+}
