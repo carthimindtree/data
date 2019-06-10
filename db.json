@@ -8,5 +8,12 @@
     "manufacturer": "DACIA"
   }
 ]
-   }
+   },
+  "models":{
+ "data":[
+    {
+      "model": "BERLINGO"
+    }
+  ]
+} 
 }
